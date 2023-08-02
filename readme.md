@@ -1,6 +1,6 @@
-Voyage Ventures: Unlock Your Dream Destinations Now.
+## Voyage Ventures: Unlock Your Dream Destinations Now.
 
-A travel website where you can explore endless destinations, find the best deals, and create lifelong memories.
+### A travel website where you can explore endless destinations, find the best deals, and create lifelong memories.
 
 Voyage Ventures: redefine your travel experience with a travel website created in HTML5 and Javascript and styled with CSS3.
 
