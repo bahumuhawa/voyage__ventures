@@ -5,5 +5,5 @@
 Voyage Ventures - redefine your travel experience with a travel website created by HTML5 and Javascript and styled with CSS3.
 
 Getting Started To use Voyage Ventures, follow these simple steps:
-1. Clone the Voyage Ventures repository from GitHub: git clone https://github.com/bahumuhawa/voyage-ventures.git
+1. Clone the Voyage Ventures repository from GitHub: git clone 
 3. Open the index.html file in your preferred web browser.
